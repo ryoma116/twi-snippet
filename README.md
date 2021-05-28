@@ -1,2 +1,2 @@
-# twi-snippets
+# twippets
 Snippet from the twitter api
